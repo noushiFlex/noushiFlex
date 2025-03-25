@@ -14,7 +14,4 @@ HELLO I'M YOHANN ,  A FULL$TACK DEV
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noushiFlex&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=noushiFlex&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
